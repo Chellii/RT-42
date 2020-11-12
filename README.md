@@ -1,4 +1,7 @@
 # RT-42
+
+Note: this project was made for MacOS.
+
 ## Installation:
 
 ```
