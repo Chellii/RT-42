@@ -14,7 +14,8 @@ make
 ```
 ./rt [file_path]
 ```
-filename must contain path to a valid scene. If the scene is not valid, RTv1 will write corresponding error on standard output.
+- filename must contain path to a valid scene. If the scene is not valid, RTv1 will write corresponding error on standard output.
+- if you want to test your own scene check the ```parse.h``` in repository 'Includes' to have an idea how to write a valid scene.
 
 ## Screenshots
 
