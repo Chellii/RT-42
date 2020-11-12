@@ -19,7 +19,7 @@ make
 
 ## Screenshots
 
-<img src="screenshots/refl.png" width="500" height="500">
+<img src="./screenshots/refl.png" width="500" height="500">
 <img src="screenshots/refr.png" width="500" height="500">
 <img src="screenshots/spotlight.png" width="500" height="500">
 <img src="screenshots/toon.png" width="500" height="500">
