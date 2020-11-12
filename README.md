@@ -14,6 +14,8 @@ make
 ```
 ./rt [file_path]
 ```
+filename must contain path to a valid scene. If the scene is not valid, RTv1 will write corresponding error on standard output.
+
 ## Screenshots
 
 <img src="refl.png" width="500" height="500">
