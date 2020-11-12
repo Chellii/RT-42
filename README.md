@@ -28,7 +28,7 @@ make
 
 ## Ressources
 
-still working on it..
+soon..
 
 ## Contact me
 
