@@ -1,11 +1,13 @@
 # RT-42
 ## Installation:
+
 ```
 git clone https://github.com/cel-oiri/RT-42.git
 cd ./RT-42
 make
 ```
 ## Usage
+
 ```
 ./rt [file_path]
 ```
@@ -23,3 +25,11 @@ make
 <img src="dof.png" width="500" height="500">
 <img src="neg_obj.png" width="500" height="500">
 <img src="procedural.png" width="500" height="500">
+
+## Ressources
+
+still working on it..
+
+## Contact me
+
+Feel free to email me (eloiriaglichaimae2@gmail.com) about any bugs or anything you find wrong in the code.
